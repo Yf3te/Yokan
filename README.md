@@ -1,6 +1,8 @@
 # Yokan
 
 一体化 Web 渗透测试平台。前端 Next.js + 后端 Go，Docker 一键部署。
+<img width="1509" height="746" alt="image" src="https://github.com/user-attachments/assets/5313606e-551b-4214-83ef-acb4dc8137df" />
+
 
 ## 快速启动
 
@@ -9,6 +11,14 @@ docker compose up -d --build
 ```
 
 访问 `http://localhost:3159`
+
+---
+
+## 快速投入使用
+
+配置全局配置
+<img width="1503" height="741" alt="image" src="https://github.com/user-attachments/assets/c32798db-d384-424e-b807-b4fdc616e07f" />
+
 
 ---
 
@@ -37,6 +47,9 @@ docker exec -it yokan-backend ./change_password
 | 模式       | 说明                                                         |
 | ---------- | ------------------------------------------------------------ |
 | `external` | 直接外部导入linux/windwos、java、python（必须要带有requirements.txt文件） |
+
+<img width="1313" height="744" alt="image" src="https://github.com/user-attachments/assets/5ec746f6-f7ef-4df2-8b4e-ed969f0e2397" />
+
 
 **外部模板（一键导入）：**
 
