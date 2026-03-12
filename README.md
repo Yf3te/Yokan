@@ -1,5 +1,14 @@
 # Yokan
 
+---
+
+## 项目亮点
+
+**Yokan**，外网打点一体化工具：用户完全自定义工具流、icp官方接口查询、扩展半自动化aifuzz、指纹toPoc的专项工作流。
+
+<img width="1148" height="697" alt="image" src="https://github.com/user-attachments/assets/aed216fb-cd4a-41e6-984a-4eb9594af6ee" />
+
+
 一体化 Web 渗透测试平台。前端 Next.js + 后端 Go，Docker 一键部署。
 <img width="1509" height="746" alt="image" src="https://github.com/user-attachments/assets/5313606e-551b-4214-83ef-acb4dc8137df" />
 
