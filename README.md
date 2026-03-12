@@ -79,7 +79,7 @@ docker exec -it yokan-backend ./change_password
 
 | 模式       | 说明                                                         |
 | ---------- | ------------------------------------------------------------ |
-| `external` | 直接外部导入linux/windwos、java、python（必须要带有requirements.txt文件） |
+| `external` | 直接外部导入linux（amd64）/windwos、java、python（必须要带有requirements.txt文件） |
 
 <img width="1313" height="744" alt="image" src="https://github.com/user-attachments/assets/5ec746f6-f7ef-4df2-8b4e-ed969f0e2397" />
 
